@@ -1,8 +1,8 @@
 import pandas as pd 
-mc = ['Sons','Mayans','Niners']
-presidents = ['Jackie boy','Marcus Alvarez','Pope']
-vpresidents = ['Chibs','Happy','August Marks']
-memberno = [13,28,46]
+mc = ['Sons','Niners']
+presidents = ['Jackie boy','Pope']
+vpresidents = ['Chibs','August Marks']
+memberno = [13,46]
 club_label = ['mc','presidents','vpresidents','memberno']
 club_columns = [mc, presidents, vpresidents, memberno]
 club_zipped = list(zip(club_label,club_columns))
