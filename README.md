@@ -1,16 +1,16 @@
-#SOA
+# SOA
 
 Unlike your guess It`s not coming from service oriented architecture
 It`s my favourite show sons of anarchy.
 I just wanted to name it that way.
 
-#Content
+# Content
 
 It has pandas and matplotlib in it(for now).
 Making tables and graphs from the data that I made up.
 Considering adding new features.
 
-#How to run
+# How to run
 
 Copy the code.
 Open your text stuff and paste it.
